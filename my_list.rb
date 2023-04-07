@@ -32,8 +32,7 @@ puts(list.all? { |x| x < 5 })
 
 puts(list.all? { |x| x > 5 })
 
-puts(list.any?{ |x| x== 2})
-puts(list.any?{ |x| x== 5})
+puts(list.any? { |x| x == 2 })
+puts(list.any? { |x| x == 5 })
 
-print(list.filter { |x| x.even? })
-
+print(list.filter(&:even?))
