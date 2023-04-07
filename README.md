@@ -131,6 +131,7 @@ Thats it now you can execute your program on termonal:)
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
+To add an [issue](https://github.com/MosDevx/Enumerable-Ruby/issues)
 
 ## ⭐️ Show your support <a name="support"></a>
 
