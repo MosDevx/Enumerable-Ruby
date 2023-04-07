@@ -20,7 +20,7 @@
 
 # 📖 [MyEnumerable] <a name="about-project"></a>
 
-> **MyEnumerable** is a project that is built to decode Morse code.
+> **MyEnumerable** is a project that is to implement enumerable feature from scratch.
 
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -104,11 +104,11 @@ Thats it now you can execute your program on termonal:)
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Ayesha Arshad**
+👤 **Shakir-Hussain**
 
-- GitHub: [@shella12](https://github.com/shella12)
-- Twitter: [@Ayesha Arshad](https://twitter.com/AyeshaA03712974)
-- LinkedIn: [Ayesha Arshad](https://www.linkedin.com/in/ayesha-arshad-a690a015a/)
+- GitHub: [@Shakir-Hussain12](https://github.com/Shakir-Hussain12)
+- Twitter: [@S_Hussain_99](https://twitter.com/S_Hussain_99)
+- LinkedIn: [shakir-ussain99](https://www.linkedin.com/in/shakir-hussain99/)
 
 👤 **Moses Wamae**
 
