@@ -28,4 +28,10 @@ mylist = [1, 2, 3, 4, 5]
 
 list = MyList.new(mylist)
 
-list.all? { |x| x > 2 }
+puts list.all? { |x| x > 2 }
+
+puts list.any? { |x| x > 2 }
+
+print list.filter { |x| x > 2 }
+puts ' '
+print list.reverse_em
